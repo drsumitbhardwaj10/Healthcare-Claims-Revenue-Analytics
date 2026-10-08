@@ -1,0 +1,9 @@
+claim_type,intensity_band,providers,total_claims,total_payment,avg_payment_per_claim
+Inpatient,Below Average,48,4131,33770120.0,8127.78
+Inpatient,Near Average,223,29724,283244690.0,9503.55
+Inpatient,Above Average,42,4288,47376150.0,11068.92
+Inpatient,High Intensity,6,367,4708600.0,12918.78
+Outpatient,Below Average,1011,192569,44277560.0,219.09
+Outpatient,Near Average,994,380376,107654870.0,282.23
+Outpatient,Above Average,372,99462,32904660.0,331.77
+Outpatient,High Intensity,330,52911,21649950.0,418.72

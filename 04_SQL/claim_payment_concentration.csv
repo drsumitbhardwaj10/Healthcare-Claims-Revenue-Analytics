@@ -1,0 +1,3 @@
+claim_type,total_claims,total_positive_payment,top_1_pct_payment,top_1_payment_share_pct,top_5_pct_payment,top_5_payment_share_pct,top_10_pct_payment,top_10_payment_share_pct
+Inpatient,64558,639293720.0,36822000.0,5.76,134912000.0,21.1,210924000.0,32.99
+Outpatient,758119,224605120.0,25020600.0,11.14,93919900.0,41.82,136119700.0,60.6

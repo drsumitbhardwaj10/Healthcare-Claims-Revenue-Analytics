@@ -1,0 +1,2 @@
+total_claims,unique_beneficiaries,unique_claim_keys,inpatient_claims,outpatient_claims,inpatient_payment,outpatient_payment,total_payment,negative_payment_claims,zero_payment_claims,missing_payment_claims
+857563,86738,857563,66773.0,790790.0,639260180.0,224524710.0,863784890.0,2621.0,32265.0,0.0

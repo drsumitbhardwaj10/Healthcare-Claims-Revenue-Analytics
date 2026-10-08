@@ -1,0 +1,83 @@
+# ==========================================
+# Healthcare Claims Revenue Analytics
+# Git Ignore Rules
+# ==========================================
+
+# ------------------------------------------
+# Raw and working data
+# ------------------------------------------
+01_Raw_Data/
+00_Working_Data/
+
+# ------------------------------------------
+# Cleaned/generated data
+# Keep source code and documentation tracked
+# ------------------------------------------
+02_Cleaned_Data/
+
+# ------------------------------------------
+# Power BI local files
+# ------------------------------------------
+05_PowerBI/*.pbix
+05_PowerBI/**/*.pbix
+05_PowerBI/**/*.pbit
+05_PowerBI/**/*.bak
+
+# Power BI temporary/local artifacts
+05_PowerBI/**/*.tmp
+05_PowerBI/**/*.temp
+
+# ------------------------------------------
+# DuckDB databases
+# ------------------------------------------
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp
+
+# ------------------------------------------
+# Python cache / environments
+# ------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.venv/
+venv/
+env/
+
+# ------------------------------------------
+# Jupyter temporary files
+# ------------------------------------------
+*.ipynb_checkpoints
+
+# ------------------------------------------
+# Operating system files
+# ------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ------------------------------------------
+# VS Code local settings
+# ------------------------------------------
+.vscode/
+
+# ------------------------------------------
+# Logs and temporary files
+# ------------------------------------------
+*.log
+*.tmp
+*.temp
+
+# ------------------------------------------
+# Excel temporary files
+# ------------------------------------------
+~$*.xlsx
+~$*.xls
+
+# ------------------------------------------
+# Secrets / credentials
+# ------------------------------------------
+.env
+.env.*
+!.env.example

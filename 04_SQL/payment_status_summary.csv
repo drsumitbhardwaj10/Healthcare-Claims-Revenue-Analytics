@@ -1,0 +1,7 @@
+claim_type,payment_status,claim_count,unique_beneficiaries,unique_providers,total_payment,average_payment_per_claim,median_payment_per_claim
+Inpatient,Positive Payment,64558,37048,2669,639293720.0,9902.63,7000.0
+Inpatient,Zero Payment,2160,2074,974,0.0,0.0,0.0
+Inpatient,Negative Payment,55,55,52,-33540.0,-609.82,-200.0
+Outpatient,Positive Payment,758119,84788,6281,224605120.0,296.27,80.0
+Outpatient,Zero Payment,30105,23298,4165,0.0,0.0,0.0
+Outpatient,Negative Payment,2566,2508,1357,-80410.0,-31.34,-30.0

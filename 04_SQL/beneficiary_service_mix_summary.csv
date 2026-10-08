@@ -1,0 +1,4 @@
+service_mix,beneficiaries,total_claims,total_payment,avg_claims_per_beneficiary,avg_payment_per_beneficiary,beneficiary_share_pct,claim_share_pct,payment_share_pct
+Outpatient-dominant,52957,755718.0,632274550.0,14.27,11939.4,93.93,95.73,83.22
+Mixed,2809,29457.0,99530820.0,10.49,35432.83,4.98,3.73,13.1
+Inpatient-dominant,616,4274.0,27997240.0,6.94,45450.06,1.09,0.54,3.68

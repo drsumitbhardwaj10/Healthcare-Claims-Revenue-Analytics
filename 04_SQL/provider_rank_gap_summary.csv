@@ -1,0 +1,7 @@
+claim_type,rank_relationship,provider_count,average_rank_gap,average_claim_count,total_payment
+Inpatient,Aligned,252,-1.21,133.93,324114040.0
+Inpatient,Payment Rank Advantage,30,45.57,64.43,21993800.0
+Inpatient,Volume Rank Advantage,37,-40.54,76.38,22991720.0
+Outpatient,Aligned,431,-0.24,784.41,97070480.0
+Outpatient,Payment Rank Advantage,1032,224.8,152.57,54860720.0
+Outpatient,Volume Rank Advantage,1244,-199.53,184.72,54555840.0

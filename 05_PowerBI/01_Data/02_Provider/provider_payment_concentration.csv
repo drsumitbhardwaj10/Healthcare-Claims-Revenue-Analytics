@@ -1,0 +1,6 @@
+segment,percentile,providers_in_segment,segment_payment,payment_share_pct
+Top 1%,0.01,69,181310050.0,20.99
+Top 5%,0.05,341,428049010.0,49.56
+Top 10%,0.1,681,565598460.0,65.48
+Top 25%,0.25,1701,748873030.0,86.7
+Top 50%,0.5,3401,840157770.0,97.26
