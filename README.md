@@ -79,10 +79,10 @@ The completed analytical dataset contains:
 | Inpatient claims | **66,773** |
 | Outpatient claims | **790,790** |
 | Unique beneficiaries with claims | **86,738** |
-| Total payment | **₹863,784,890** |
-| Inpatient payment | **₹639,260,180** |
-| Outpatient payment | **₹224,524,710** |
-| Average payment per claim | **₹1,007.26** |
+| Total payment | **$863,784,890** |
+| Inpatient payment | **$639,260,180** |
+| Outpatient payment | **$224,524,710** |
+| Average payment per claim | **$1,007.26** |
 | Zero-payment claims | **32,265** |
 | Negative-payment claims | **2,621** |
 | Missing-payment claims | **0** |
@@ -325,7 +325,7 @@ Unique claim keys:         857,563
 Unique beneficiaries:       86,738
 Inpatient claims:            66,773
 Outpatient claims:          790,790
-Total payment:          ₹863,784,890
+Total payment:          $863,784,890
 ```
 
 ---
@@ -346,7 +346,10 @@ Healthcare_Claims_Revenue_Analytics/
 │
 ├── 04_SQL/
 │   ├── 01_SQL_Analysis.ipynb
-│   └── analytical_outputs/
+│   ├── claims_financial_summary.csv
+│   ├── provider_financial_summary.csv
+│   ├── beneficiary_financial_segments.csv
+│   └── ... analytical CSV outputs
 │
 ├── 05_PowerBI/
 │   └── 01_Data/
