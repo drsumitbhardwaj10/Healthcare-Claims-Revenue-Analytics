@@ -225,6 +225,7 @@ The SQL layer contains analytical outputs covering:
 
 ---
 
+
 ## Power BI Dashboard
 
 The Power BI dashboard contains three analytical pages.
@@ -232,16 +233,13 @@ The Power BI dashboard contains three analytical pages.
 ### Dashboard Screenshots
 
 #### Executive Overview
-
-![Executive Overview](01_Executive_Overview.png)
+![Executive Overview](06_Screenshots/01_Executive_Overview.png)
 
 #### Provider Analysis
-
-![Provider Analysis](02_Provider_Analysis.png)
+![Provider Analysis](06_Screenshots/02_Provider_Analysis.png)
 
 #### Beneficiary Analysis
-
-![Beneficiary Analysis](03_Beneficiary_Analysis.png)
+![Beneficiary Analysis](06_Screenshots/03_Beneficiary_Analysis.png)
 
 ### 1. Executive Overview
 
