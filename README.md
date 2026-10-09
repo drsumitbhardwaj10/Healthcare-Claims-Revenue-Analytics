@@ -229,6 +229,20 @@ The SQL layer contains analytical outputs covering:
 
 The Power BI dashboard contains three analytical pages.
 
+### Dashboard Screenshots
+
+#### Executive Overview
+
+![Executive Overview](01_Executive_Overview.png)
+
+#### Provider Analysis
+
+![Provider Analysis](02_Provider_Analysis.png)
+
+#### Beneficiary Analysis
+
+![Beneficiary Analysis](03_Beneficiary_Analysis.png)
+
 ### 1. Executive Overview
 
 **`01_Executive_Overview`**
@@ -264,9 +278,7 @@ Analyzes:
 - Beneficiaries by payment segment
 - Payment share by beneficiary segment
 - Claim share by beneficiary segment
-- Average payment per beneficiary
-
----
+- Average payment per beneficiary---
 
 ## Payment Integrity Approach
 
